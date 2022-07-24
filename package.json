@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-source-trace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "alobe",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": ">7.0.0",
+    "@babel/helper-plugin-utils": ">7.0.0"
+  }
+}
